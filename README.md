@@ -18,12 +18,12 @@ From anomaly detection to AI-driven insights tools, I enjoy building solutions t
 
 ### 🛠 Tools & Technologies
 
-**Languages**: Python, SQL, R  
-**BI & Visualization**: Power BI, Tableau, Looker Studio  
-**ML & Modeling**: XGBoost, Random Forests, Regression, PyTorch, SMOTE  
-**Data Engineering**: BigQuery, Airflow, Hadoop, Spark, Hive, Alteryx  
-**Cloud Platforms**: Google Cloud Platform (GCP)  
-**Certifications**: Tableau Desktop Specialist, Alteryx Designer Core, Data Analyst in Power BI (Datacamp)
+- **Languages**: Python, SQL, R  
+- **BI & Visualization**: Power BI, Tableau, Looker Studio  
+- **ML & Modeling**: XGBoost, Random Forests, Regression, PyTorch, SMOTE  
+- **Data Engineering**: BigQuery, Airflow, Hadoop, Spark, Hive, Alteryx  
+- **Cloud Platforms**: Google Cloud Platform (GCP)  
+- **Certifications**: Tableau Desktop Specialist, Alteryx Designer Core, Data Analyst in Power BI (Datacamp)
 
 ---
 
