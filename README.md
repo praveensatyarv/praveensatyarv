@@ -29,8 +29,8 @@ From anomaly detection to AI-driven insights tools, I enjoy building solutions t
 
 ### 📚 Education
 
-🎓 **UT Dallas** – M.S. in Business Analytics & Artificial Intelligence
-🎓 **BITS Pilani** – B.E. in Manufacturing Engineering  
+- 🎓 **UT Dallas** – M.S. in Business Analytics & Artificial Intelligence
+- 🎓 **BITS Pilani** – B.E. in Manufacturing Engineering  
 
 ---
 
