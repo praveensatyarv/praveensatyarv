@@ -46,7 +46,7 @@ From anomaly detection to AI-driven insights tools, I enjoy building solutions t
 
 - 📧 psatyarv@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/praveen-satya-r-v)  
-- 🖥️ [Portfolio](https://praveensatyarv.github.io/)
+- 🖥️ [Portfolio](https://praveensatyarv.github.io/portfolio)
 
 ---
 
